@@ -1,0 +1,79 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drei.tv",
+      "sha256_cert_fingerprints": [
+        "C7:E7:C4:C5:87:55:64:E6:8D:B6:E0:41:18:45:21:BD:BD:0D:F5:0A:61:69:E9:7C:E2:8F:1E:39:9A:CD:A8:AB",
+        "45:CF:70:12:32:74:20:99:72:56:D1:B0:6F:E6:A5:1D:BE:04:B6:EF:A5:3D:19:77:62:E9:C0:F0:98:80:57:FE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drei.tv.dev",
+      "sha256_cert_fingerprints": [
+        "C7:E7:C4:C5:87:55:64:E6:8D:B6:E0:41:18:45:21:BD:BD:0D:F5:0A:61:69:E9:7C:E2:8F:1E:39:9A:CD:A8:AB",
+        "45:CF:70:12:32:74:20:99:72:56:D1:B0:6F:E6:A5:1D:BE:04:B6:EF:A5:3D:19:77:62:E9:C0:F0:98:80:57:FE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drei.tv.sit",
+      "sha256_cert_fingerprints": [
+        "C7:E7:C4:C5:87:55:64:E6:8D:B6:E0:41:18:45:21:BD:BD:0D:F5:0A:61:69:E9:7C:E2:8F:1E:39:9A:CD:A8:AB",
+        "45:CF:70:12:32:74:20:99:72:56:D1:B0:6F:E6:A5:1D:BE:04:B6:EF:A5:3D:19:77:62:E9:C0:F0:98:80:57:FE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drei.tv.shop",
+      "sha256_cert_fingerprints": [
+        "C7:E7:C4:C5:87:55:64:E6:8D:B6:E0:41:18:45:21:BD:BD:0D:F5:0A:61:69:E9:7C:E2:8F:1E:39:9A:CD:A8:AB",
+        "45:CF:70:12:32:74:20:99:72:56:D1:B0:6F:E6:A5:1D:BE:04:B6:EF:A5:3D:19:77:62:E9:C0:F0:98:80:57:FE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drei.tv.demoloopapp",
+      "sha256_cert_fingerprints": [
+        "C7:E7:C4:C5:87:55:64:E6:8D:B6:E0:41:18:45:21:BD:BD:0D:F5:0A:61:69:E9:7C:E2:8F:1E:39:9A:CD:A8:AB",
+        "45:CF:70:12:32:74:20:99:72:56:D1:B0:6F:E6:A5:1D:BE:04:B6:EF:A5:3D:19:77:62:E9:C0:F0:98:80:57:FE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hutchison3g.at.android.selfcare",
+      "sha256_cert_fingerprints": [
+        "3E:8E:BA:6F:FD:5A:C7:07:85:F2:86:3E:D4:70:9C:FF:31:54:4F:72:E0:FA:9C:75:86:DD:77:A1:77:B0:4A:CF"
+      ]
+    }
+  }
+]
