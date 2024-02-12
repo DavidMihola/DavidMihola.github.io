@@ -72,7 +72,8 @@
       "namespace": "android_app",
       "package_name": "com.hutchison3g.at.android.selfcare",
       "sha256_cert_fingerprints": [
-        "3E:8E:BA:6F:FD:5A:C7:07:85:F2:86:3E:D4:70:9C:FF:31:54:4F:72:E0:FA:9C:75:86:DD:77:A1:77:B0:4A:CF"
+        "3E:8E:BA:6F:FD:5A:C7:07:85:F2:86:3E:D4:70:9C:FF:31:54:4F:72:E0:FA:9C:75:86:DD:77:A1:77:B0:4A:CF",
+        "74:62:A8:A1:3C:12:C4:FB:43:FF:66:E2:0B:FA:99:BB:59:06:81:C0:41:D1:47:BA:3F:20:75:84:B6:F9:83:9E"
       ]
     }
   }
